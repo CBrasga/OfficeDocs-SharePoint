@@ -193,7 +193,7 @@ This setting takes priority over [Block syncing OneDrive accounts for specific o
 ### Block file downloads when users are low on disk space
 <a name="MinDiskSpaceLimitInMB"> </a>
 
-This setting lets you specify a minimum amount of available disk space and block the OneDrive sync app (OneDrive.exe) from downloading files when users have less than this amount.
+This setting lets you specify a minimum amount of available disk space, in Megabytes, and blocks the OneDrive sync app (OneDrive.exe) from downloading files when users have less than this amount.
  
 Users are prompted with options to help free up space.
   
